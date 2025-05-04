@@ -18,7 +18,7 @@ Phần mềm quản lý khách sạn bằng Windows Form với DevExpress và Gu
 ![](/Data/IMG/QLKS4.png)
 ![](/Data/IMG/QLKS5.png)
 
-# Công việc đầu tiên
+# How it run
 
 1. Cần cài đặt DevExpress
 2. Đảm bảo rằng [Guna.UI2.dll](/Data/UI/Guna.UI2.dll) đã được thêm vào References của class GUILAYER.
