@@ -3,7 +3,7 @@
 Phần mềm quản lý khách sạn bằng Windows Form với DevExpress và Guna UI.
 
 
-# Môi trường làm việ
+# Môi trường làm việc
 
 * SQL Server Management Studio 20.
 * Microsoft Visual Studio 2022.
